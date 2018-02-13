@@ -1,0 +1,18 @@
+
+//
+<style type="text/css" id="target_id" title="target_title"></style>
+
+//
+<style type="text/css" id="target_id">
+.target{
+  background-color: gray;
+}
+</style>
+
+//
+<style type="text/css" id="mystyle">
+.target{ background-color: gray; }
+.target{ background-color: red; }
+</style>
+
+
